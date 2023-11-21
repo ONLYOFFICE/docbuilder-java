@@ -1,0 +1,13 @@
+target
+test
+bin
+pkg
+*.h
+*.class
+*.log
+
+.DS_Store
+.project
+.classpath
+
+.settings
